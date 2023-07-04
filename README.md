@@ -40,10 +40,6 @@ Contributions to the VideoClubManagementSystem project are welcome! If you have 
 
 The Video Club Management System is released under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and use the code according to the terms of the license.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
-
 Happy video club management!
 
 
